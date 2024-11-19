@@ -8,4 +8,5 @@
 ![ngo registration and civil society](https://github.com/user-attachments/assets/139d9dcc-1ff3-4156-8e20-3ad453f67897)
 
  🚀 Features
- * 
+ * ## NGO Management: Keep track of all NGOs added to the system, including their names, descriptions, and the specific causes they support
+ * # Project Management: 

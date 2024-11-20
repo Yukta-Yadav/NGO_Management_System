@@ -16,7 +16,7 @@
 
 ## 🛠️ Technologies Used
 - **Programming Language**: Java
-- **Concept of OOPs
+- **Concept of OOPs**
 
 ## 📂 Project Functions
 - add New NGO
